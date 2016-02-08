@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 4.5.0-rc2 Kernel Configuration
+# Linux/arm 4.5.0-rc3 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_ARM_HAS_SG_CHAIN=y
@@ -3727,7 +3727,6 @@ CONFIG_IIO=y
 # CONFIG_MXC4005 is not set
 # CONFIG_MXC6255 is not set
 # CONFIG_STK8312 is not set
-# CONFIG_STK8BA50 is not set
 
 #
 # Analog to digital converters
@@ -4409,7 +4408,7 @@ CONFIG_CRYPTO_CCM=y
 CONFIG_CRYPTO_GCM=y
 # CONFIG_CRYPTO_CHACHA20POLY1305 is not set
 CONFIG_CRYPTO_SEQIV=y
-CONFIG_CRYPTO_ECHAINIV=m
+CONFIG_CRYPTO_ECHAINIV=y
 
 #
 # Block modes
