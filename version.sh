@@ -4,7 +4,7 @@ ARCH=$(uname -m)
 
 config="tegra_defconfig"
 
-build_prefix="tegra-r"
+build_prefix="-tegra-r"
 branch_prefix="v"
 branch_postfix=".x"
 

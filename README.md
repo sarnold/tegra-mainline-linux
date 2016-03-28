@@ -1,2 +1,0 @@
-tegra-mainline-linux
-==============
