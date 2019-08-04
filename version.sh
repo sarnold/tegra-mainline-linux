@@ -31,7 +31,7 @@ toolchain="gcc_arm_gnueabihf_8"
 
 #Kernel
 KERNEL_REL=4.19
-KERNEL_TAG=${KERNEL_REL}
+KERNEL_TAG=${KERNEL_REL}.63
 kernel_rt=".X-rtY"
 #Kernel Build
 BUILD=${build_prefix}0
