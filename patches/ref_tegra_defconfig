@@ -2,10 +2,10 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm 5.11.0-rc5 Kernel Configuration
 #
-CONFIG_CC_VERSION_TEXT="arm-none-linux-gnueabihf-gcc (GNU Toolchain for the A-profile Architecture 10.2-2020.11 (arm-10.16)) 10.2.1 20201103"
+CONFIG_CC_VERSION_TEXT="armv7a-hardfloat-linux-gnueabi-gcc (Gentoo Hardened 8.3.0-r1 p1.1) 8.3.0"
 CONFIG_CC_IS_GCC=y
-CONFIG_GCC_VERSION=100201
-CONFIG_LD_VERSION=235010000
+CONFIG_GCC_VERSION=80300
+CONFIG_LD_VERSION=232000000
 CONFIG_CLANG_VERSION=0
 CONFIG_LLD_VERSION=0
 CONFIG_CC_CAN_LINK=y
